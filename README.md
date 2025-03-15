@@ -13,8 +13,8 @@ My main task is to develop an online food delivery store, using the example of w
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/OleksiiUzu/FirstHomeWork.git
-   cd FirstHomeWork
+   git clone https://github.com/OleksiiUzu/flask-api-homework-1.git
+   cd flask-api-homework-1
 2.(Optional) Create and activate a virtual environment:
   python -m venv venv
   source venv/bin/activate
